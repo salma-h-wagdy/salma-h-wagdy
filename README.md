@@ -42,7 +42,7 @@
     ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
  </div>-->
   <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<h2 align="center" class="section-heading"> Github Stats 💻</h2>
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>

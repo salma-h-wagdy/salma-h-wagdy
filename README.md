@@ -11,9 +11,9 @@
 </div>
 <div align="center">
     <h2 align="center" class="section-heading">Connect with me!</h2>
-    <a href="linkedin.com/in/salma-wagdy-b127b81a9">
+    <a href="https://linkedin.com/in/salma-wagdy-b127b81a9">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <a href="github.com/salma-h-wagdy">
+        <a href="https://github.com/salma-h-wagdy">
         <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
         <!-- <img src= "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> -->
     </a>

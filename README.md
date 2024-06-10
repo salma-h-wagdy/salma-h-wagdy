@@ -6,7 +6,7 @@
 </div>
 <div align="center">
     <h2>About Me✨</h2>
-    <p>I'm Salma, A motivated undergraduate studying Software Systems.
+    <p>I'm Salma, A motivated undergraduate studying Software Systems. <br>
     Most of my repositories are College, Training related Projects or just whatever I feel like working on  :D</p>
 </div>
 <div align="center">

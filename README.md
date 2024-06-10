@@ -39,7 +39,7 @@
   </div>
   <div align="center">
     <h2>GitHub Commits📊</h2>
-    ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
+    <img src ="https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg"/>
   </div>
   <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>

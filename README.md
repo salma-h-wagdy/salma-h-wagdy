@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   </div>
   <div align="center">
-    <h2>GitHub Commits📊</h2>
-    <img src ="https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg"/>
-  </div>
+    <h2>GitHub Commits📊</h2></div>
+    ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
+ 
   <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>

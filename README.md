@@ -47,7 +47,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=github_dark" alt="GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=github_dark" alt="Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=highcontrast" alt="Contribution Streak"/></td>
     </tr>
  </table>
 

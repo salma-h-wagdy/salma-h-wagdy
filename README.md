@@ -62,7 +62,7 @@
  <table align="center" width="100%" height="100%" >
      <!--<tr><img src="https://komarev.com/ghpvc/?username=salma-h-wagdy&theme=gotham" alt=""/></tr>-->
     <tr>
-       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=salma-h-wagdy&theme=gotham&hide_rank=true&hide_border=true" alt="GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>    
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=gotham&hide_border=true" alt="Contribution Streak"/></td>
     </tr>
  </table>

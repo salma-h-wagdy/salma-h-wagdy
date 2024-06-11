@@ -62,7 +62,7 @@
  <table align="center" width="100%" height="100%" >
      <!--<tr><img src="https://komarev.com/ghpvc/?username=salma-h-wagdy&theme=gotham" alt=""/></tr>-->
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=salma-h-wagdy&theme=gotham&hide=rank" alt="GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=gotham" alt="Contribution Streak"/></td>
     </tr>
  </table>
@@ -72,7 +72,7 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>
     <!-- <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salma-h-wagdy&theme=github_dark&utcOffset=10" alt="GitHub Stats"/></td> -->
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salma-h-wagdy&theme=gotham&text_color=white" alt="GitHub Stats"/></td>
-       <!-- <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-h-wagdy&layout=donut&theme=gotham&text_color=white" alt="GitHub Stats"/></td>-->
+       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-h-wagdy&layout=donut&theme=gotham&text_color=white" alt="GitHub Stats"/></td>
         <!--<td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salma-h-wagdy&theme=gotham&text_color=white" alt="GitHub Stats"/></td>-->
     </tr>
  </table>

@@ -47,7 +47,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=github_dark" alt="GitHub Stats"/></td>   
-       <td><img src="https://github-readme-stats.vercel.app/api?username=salma-h-wagdy&include_all_commits=true" alt ="Total Commits" /></td>
+       <td><img src="https://github-readme-stats.vercel.app/api?username=salma-h-wagdy&include_all_commits=true&theme=github_dark" alt ="Total Commits" /></td>
     </tr>
  </table>
 

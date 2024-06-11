@@ -54,7 +54,7 @@
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=gotham" alt="Contribution Streak"/></td>
     </tr>
  </table>

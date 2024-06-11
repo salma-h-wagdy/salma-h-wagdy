@@ -46,10 +46,10 @@
  <!-- <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>-->
 <!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
   </div>
-  <div align="center">
+ <!-- <div align="center">
    <h2>GitHub Commits📊</h2> 
  </div>
- ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
+ ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)-->
   <div align="center">
 <h2 align="center" class="section-heading"> Github Stats 💻</h2>
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>

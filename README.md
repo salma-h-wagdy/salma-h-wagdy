@@ -29,6 +29,9 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683"/>
+    <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge&logoColor=white" alt="Verilog"/>
+    <img src="https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logoColor=white" alt="VHDL"/>
+
 </div>
 
 <h2 align="center" class="section-heading">Additional Experience 🔧</h2>

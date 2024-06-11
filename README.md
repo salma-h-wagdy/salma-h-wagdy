@@ -47,9 +47,9 @@
 <!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
   </div>
   <div align="center">
-    <!--<h2>GitHub Commits📊</h2>
-    ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
- </div>-->
+   <h2>GitHub Commits📊</h2> 
+ </div>
+ ![snake animation](https://github.com/salma-h-wagdy/salma-h-wagdy/blob/output/github-contribution-grid-snake2.svg)
   <div align="center">
 <h2 align="center" class="section-heading"> Github Stats 💻</h2>
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>

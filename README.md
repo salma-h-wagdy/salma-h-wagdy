@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge&logoColor=white" alt="Verilog"/>
     <img src="https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logoColor=white" alt="VHDL"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+
 
 </div>
 
@@ -46,6 +48,7 @@
   <img src = "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src ="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  <!-- <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>-->
 <!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
   </div>

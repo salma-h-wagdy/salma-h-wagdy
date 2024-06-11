@@ -33,6 +33,7 @@
 <h2 align="center" class="section-heading">Additional Experience 🔧</h2>
 <div align="center">
 
+<p>Here are some frameworks, libraries, databases and other stuff I have experience in:</p>
  <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>

@@ -60,7 +60,7 @@
 <h2 align="center" class="section-heading"> Github Stats 📊</h2>
 <p>Dive into my GitHub stats to check out the milestones of my journey!</p>
  <table align="center" width="100%" height="100%" >
-     <tr><img src="https://komarev.com/ghpvc/?username=salma-h-wagdy&theme=gotham" alt=""/></tr>
+     <!--<tr><img src="https://komarev.com/ghpvc/?username=salma-h-wagdy&theme=gotham" alt=""/></tr>-->
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=salma-h-wagdy&theme=gotham" alt="Contribution Streak"/></td>
@@ -71,7 +71,8 @@
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salma-h-wagdy&theme=gotham" alt="GitHub Stats"/></td>
     <!-- <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salma-h-wagdy&theme=gotham&text_color=white" alt="GitHub Stats"/></td> -->
-        <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-h-wagdy&layout=donut&theme=gotham&text_color=white" alt="GitHub Stats"/></td>
+     <!--   <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-h-wagdy&layout=donut&theme=gotham&text_color=white" alt="GitHub Stats"/></td>-->
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salma-h-wagdy&theme=github_dark" alt="GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salma-h-wagdy&theme=gotham&text_color=white" alt="GitHub Stats"/></td>
     </tr>
  </table>

@@ -1,12 +1,12 @@
 # About
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=2AA889&center=true&vCenter=true&width=435&lines=Hello!" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=40&duration=3500&color=2AA889&center=true&vCenter=true&width=435&lines=Hello!" alt="Hello!"/>
     </h1>
 </div>
 <div align="center">
     <h2>About Me✨</h2>
-    <p>I'm Salma, A motivated undergraduate studying Software Systems. <br>
+    <p>I'm Salma, An ambitious student studying Software Systems. <br>
     Most of my repositories are College, Training related Projects or just whatever I feel like working on  :D</p>
 </div>
 <div align="center">
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge&logoColor=white" alt="Verilog"/>

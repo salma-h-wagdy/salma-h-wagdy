@@ -11,27 +11,38 @@
 </div>
 <div align="center">
     <h2 align="center" class="section-heading">Connect with me!</h2>
-    <a href="https://linkedin.com/in/salma-wagdy-b127b81a9">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <a href="https://github.com/salma-h-wagdy">
-        <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        <!-- <img src= "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> -->
-    </a>
+    <table align="center" width="100%" height="100%" >
+        <tr>
+       <td>  <a href="https://linkedin.com/in/salma-wagdy-b127b81a9">
+       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></td></a>
+       <a href="https://github.com/salma-h-wagdy">
+        <td> <img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></td>
+           <!-- <img src= "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> -->
+           </a>
+       </tr>
+           </table>
+       <a href="https://tryhackme.com/p/salmahwagdy">
+            <img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png"/> 
+        </a> 
+      
+    
 </div>
 <h2 align="center" class="section-heading">Programming Languages 💻</h2>
 <div align="center">
 <p>Here are the languages I wield to turn complex problems into solutions:</p>
   <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt ="C++"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt ="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge&logoColor=white" alt="Verilog"/>
-    <img src="https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logoColor=white" alt="VHDL"/>
+ <!-- <img src="https://img.shields.io/badge/Verilog-4B8BBE?style=for-the-badge&logoColor=white" alt="Verilog"/>
+    <img src="https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logoColor=white" alt="VHDL"/> -->
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
+    <!-- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> -->
+    <!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white/> -->
 
 
 </div>
@@ -51,6 +62,7 @@
   <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  <!-- <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>-->
+ <!-- <img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
   </div>
  <!-- <div align="center">

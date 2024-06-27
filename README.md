@@ -21,12 +21,17 @@
            </a>
        </tr>
            </table>
-       <a href="https://tryhackme.com/p/salmahwagdy">
+</div>
+
+[![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/master/assets/thm_propic.png)][tryhackme]
+[tryhackme]: https://tryhackme.com/p/salmahwagdy
+
+     <!--  <a href="https://tryhackme.com/p/salmahwagdy">
             <img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png"/> 
-        </a> 
+        </a> -->
       
     
-</div>
+
 <h2 align="center" class="section-heading">Programming Languages 💻</h2>
 <div align="center">
 <p>Here are the languages I wield to turn complex problems into solutions:</p>

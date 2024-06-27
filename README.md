@@ -23,13 +23,10 @@
            </table>
 </div>
 
-[![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/master/assets/thm_propic.png)][tryhackme]
-[tryhackme]: https://tryhackme.com/p/salmahwagdy
+[![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/assets/thm_propic.png)][tryhackme]
 
-     <!--  <a href="https://tryhackme.com/p/salmahwagdy">
-            <img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png"/> 
-        </a> -->
-      
+
+     
     
 
 <h2 align="center" class="section-heading">Programming Languages 💻</h2>
@@ -95,3 +92,5 @@
     </tr>
  </table>
 </div>
+
+[tryhackme]: https://tryhackme.com/p/salmahwagdy

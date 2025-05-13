@@ -22,8 +22,8 @@
        </tr>
            </table>
     
-<!-- [![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/master/assets/thm_propic.png)][tryhackme] -->
-[<img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png" alt="tryhackme Badge" />][tryhackme]
+[![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/master/assets/thm_propic.png)][tryhackme]
+<!-- [<img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png" alt="tryhackme Badge" />][tryhackme] -->
 
 </div>
 

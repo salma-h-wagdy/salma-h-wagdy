@@ -21,14 +21,16 @@
         <td><a href = "https://app.letsdefend.io/user/salmahisham139">
         <img src= "https://img.shields.io/badge/LetsDefend-8a2be2?style=for-the-badge&link=https%3A%2F%2Fapp.letsdefend.io%2Fuser%2Fsalmahisham139"/></a></td>
         <td> <a href = "https://www.credly.com/users/salma-hisham.d908edfe"><img src="https://img.shields.io/badge/Credly-white?style=for-the-badge&logo=credly&logoColor=orange"/></a></td>
+           <td> <a href="https://cyberdefenders.org/p/salma-h-wagdy">
+       <img src="https://img.shields.io/badge/CyberDefenders-purple?style=for-the-badge" /></a></td>
 <!--         <td><a href = "https://stackexchange.com/users/43187686/salma-hisham"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a></td> -->
         <!-- <img src= "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/> -->
        </tr>
            </table>
     
 [![salma-h-wagdy's tryhackme stats](https://raw.githubusercontent.com/salma-h-wagdy/salma-h-wagdy/master/assets/thm_propic.png)][tryhackme]
-           <a href="https://cyberdefenders.org/p/salma-h-wagdy">
-       <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/salma-h-wagdy.png" width="300" /></a>
+          <!-- <a href="https://cyberdefenders.org/p/salma-h-wagdy">
+       <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/salma-h-wagdy.png" width="300" /></a> -->
 <!-- [<img src="https://tryhackme-badges.s3.amazonaws.com/salmahwagdy.png" alt="tryhackme Badge" />][tryhackme] -->
 
 </div>
@@ -52,6 +54,7 @@
  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
  <img src ="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 <img src ="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
     <!-- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> -->
     <!-- <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white/> -->
 
@@ -75,9 +78,12 @@
  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt = "Jira"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<!-- <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/> -->
- <!-- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> -->
-<!-- <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> -->
+ <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/> 
+ <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+ <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
+ <img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<!-- <img src = "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+ <img src = "https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> -->
  <!-- <img src ="(https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
  <!-- <img src ="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>-->
